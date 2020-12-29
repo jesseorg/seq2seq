@@ -10,12 +10,10 @@ https://google.github.io/seq2seq/getting_started/
 
 https://medium.com/@aloofness54/fix-google-seq2seq-installation-errors-4a1155b13f73
 
-
-
-# seq2seq is base on the structure given by Cho et al.
-# https://arxiv.org/pdf/1406.1078.pdf
-# here is some context:
-# http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf
+	#seq2seq is base on the structure given by Cho et al.
+	#https://arxiv.org/pdf/1406.1078.pdf
+	#here is some context:
+	#http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf
 
 
 
