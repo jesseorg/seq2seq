@@ -6,9 +6,9 @@ Fork of Google's seq2seq 202010221606BJ
   This came from
 https://google.github.io/seq2seq/getting_started/
 
-  after fixing some errors via:
+after fixing some errors via:
 
-https://medium.com/@aloofness54/fix-google-seq2seq-installation-errors-4a1155b13f73
+	https://medium.com/@aloofness54/fix-google-seq2seq-installation-errors-4a1155b13f73
 
 #seq2seq is base on the structure given by Cho et al.
 #https://arxiv.org/pdf/1406.1078.pdf
@@ -48,10 +48,10 @@ as an HTTP POST in the following data-structure -
 data:
 	{"nodes":[{"x":127.87355321789117,"y":39.306591596670735,"text":"hello from web, this is any text","isAcceptState":false}],"links":[]}
 
-fileURL:
+	fileURL:
 	/s2sdoc
 
-stem:
+	stem:
 	00001_0 
 
 
@@ -67,11 +67,12 @@ The server will save the file to the server at the URL:
 	http://{server}/s2sdoc/00001_0.json
 
 Because we have specified-
+
 	fileURL: /s2sdoc
 	stem:	00001_0 
 
 
-The server will now communicate with the dp tensorflow server.
+The server will now communicate with the dp tensorflow server {server}.
 (wait a minute, the server ("dp") is on a crontab)
 
 
