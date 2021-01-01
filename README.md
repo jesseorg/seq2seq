@@ -1,12 +1,8 @@
 # seq2seq
-Fork of Google's seq2seq 202010221606BJ
 
 
-  A fork of google's seq2seq 202010221606BJ
-  This came from
-https://google.github.io/seq2seq/getting_started/
-
-after fixing some errors via:
+  A fork of google's seq2seq (202010221606BJ).
+  This came from https://google.github.io/seq2seq/getting_started/ , after fixing some errors via:
 
 	https://medium.com/@aloofness54/fix-google-seq2seq-installation-errors-4a1155b13f73
 
