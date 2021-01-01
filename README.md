@@ -45,7 +45,7 @@ It will then send the doc to:
 
 as an HTTP POST in the following data-structure -
 
-data:
+	data:
 	{"nodes":[{"x":127.87355321789117,"y":39.306591596670735,"text":"hello from web, this is any text","isAcceptState":false}],"links":[]}
 
 	fileURL:
