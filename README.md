@@ -154,10 +154,10 @@ Inside of which are 'dev' and 'train' directories.
 
 The 'train' directory contains the data we train our model on. The files that we use are:
 
--rw-r--r-- 1 cyrus cyrus 1.2M Nov 13 02:08 sources.txt
--rw-r--r-- 1 cyrus cyrus 705K Nov 13 02:08 targets.txt
--rw-r--r-- 1 cyrus cyrus  99K Nov 13 00:18 vocab.sources.txt
--rw-r--r-- 1 cyrus cyrus 102K Nov 12 22:50 vocab.targets.txt
+	-rw-r--r-- 1 cyrus cyrus 1.2M Nov 13 02:08 sources.txt
+	-rw-r--r-- 1 cyrus cyrus 705K Nov 13 02:08 targets.txt
+	-rw-r--r-- 1 cyrus cyrus  99K Nov 13 00:18 vocab.sources.txt
+	-rw-r--r-- 1 cyrus cyrus 102K Nov 12 22:50 vocab.targets.txt
 
  The files that we use are formatted and matched line for line.
 
