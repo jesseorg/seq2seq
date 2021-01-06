@@ -154,10 +154,10 @@ Inside of which are 'dev' and 'train' directories.
 
 The 'train' directory contains the data we train our model on. The files that we use are:
 
-	-rw-r--r-- 1 cyrus cyrus 1.2M Nov 13 02:08 sources.txt
-	-rw-r--r-- 1 cyrus cyrus 705K Nov 13 02:08 targets.txt
-	-rw-r--r-- 1 cyrus cyrus  99K Nov 13 00:18 vocab.sources.txt
-	-rw-r--r-- 1 cyrus cyrus 102K Nov 12 22:50 vocab.targets.txt
+	-rw-r--r-- 1 hizza hozza 1.2M Nov 13 02:08 sources.txt
+	-rw-r--r-- 1 hizza hozza 705K Nov 13 02:08 targets.txt
+	-rw-r--r-- 1 hizza hozza  99K Nov 13 00:18 vocab.sources.txt
+	-rw-r--r-- 1 hizza hozza 102K Nov 12 22:50 vocab.targets.txt
 
  The files that we use are formatted and matched line for line.
 
@@ -183,10 +183,10 @@ There are other files in that directory, which are longer text files and origina
 
 	/org/dp/s2s_project/seq2seq/nmt_data/birdsOfEmpire/train$ ls -laht
 	total 26M
-	-rw-r--r-- 1 cyrus cyrus 8.9M Nov 12 21:23 put-all_birds.txt
-	-rw-r--r-- 1 cyrus cyrus  15M Nov 12 21:19 put-empire.txt
-	-rw-r--r-- 1 cyrus cyrus  99K Nov 12 21:12 put-all_words_empire_ascii.txt
-	-rw-r--r-- 1 cyrus cyrus 102K Nov 12 21:12 put-all_words_birds_ascii.txt
+	-rw-r--r-- 1 hizza hozza 8.9M Nov 12 21:23 put-all_birds.txt
+	-rw-r--r-- 1 hizza hozza  15M Nov 12 21:19 put-empire.txt
+	-rw-r--r-- 1 hizza hozza  99K Nov 12 21:12 put-all_words_empire_ascii.txt
+	-rw-r--r-- 1 hizza hozza 102K Nov 12 21:12 put-all_words_birds_ascii.txt
 
 
 The contents of the 'dev' directory,
